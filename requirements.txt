@@ -1,0 +1,4 @@
+Django==1.5.4
+argparse==1.2.1
+django-selectable==0.7.0
+wsgiref==0.1.2
